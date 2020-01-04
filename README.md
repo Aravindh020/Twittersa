@@ -1,1 +1,1 @@
-Twitter sentimental analysis using natural language processing
+Twitter sentimental analysis using natural language processing (Text blob)
